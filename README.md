@@ -1,5 +1,5 @@
 # Implementation of Algorithms and Data structures in c++
-This repository contains implementations of some algorithms and data structures (listed below) in c++.
+This repository contains implementations of some **algorithms and data structures** (listed below) in **c++**.<br />
 I followed google style guide.
 * ## [Sorting Algorithms](https://github.com/teyalite/Data-Structures-Algorithms/tree/main/Sorting%20Algorithms)
 	* [Insertion sort](http://github.com/teyalite)
